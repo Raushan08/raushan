@@ -5,7 +5,7 @@ public class Main {
         Library l = new Library();
 
 
-        Book b1 = new ScientificBook("Algebra", "0001", 365, 2500, "Atamura");
+        Book b1 = new ScientificBook("Himiys", "0001", 365, 2500, "Atamura");
         Book b2 = new ScientificBook("Fizika", "0002", 258, 3000, "Almaty-baspa");
         Book b3 = new ScientificBook("Geometriya", "0003", 333, 2850, "Atamura");
         Book b4 = new LiteratureBook("Russian", "0004", 425, "Ivanov I.", 2002);
